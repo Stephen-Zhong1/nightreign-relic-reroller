@@ -104,6 +104,7 @@ Please read this even if you read nothing else so you do not waste your currency
 * The app will always attempt to buy 10 relics without checking if your inventory can accept them or if you have enough currency. Make sure you have space and currency to buy them manually before using this tool
 * The "Number of Times to Reroll" setting refers to how many times it buys relics. This means that putting 2 in this field will buy 20 relics. Make sure you understand how many relics it's going to buy
 * Save/Load Presets saves/loads your settings. If you set 100 rerolls then start over and load in your old presets it will reroll 100 times. Make sure to check your settings before starting rolls
+* Don't move the mouse too much after accepting the confirmation window for a relic. My script tries to move the mouse back but you can keep moving it and it will bug out
 * **[EXTRA IMPORTANT]:** Test this tool yourself before leaving it unsupervised. Create a Preset with just "Vigor Up" and roll some normal relics and make sure that the confirmation window and everything pops up. Test the Interrupt function. I do not want my tool to waste all your currency because of some kind of hardware difference that I couldn't test
 
 ### **Useful Info**
