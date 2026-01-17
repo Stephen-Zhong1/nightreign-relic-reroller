@@ -10,3 +10,12 @@ This will create a new empty Relic Preset.
 
 <img width="425" height="324" alt="image" src="https://github.com/user-attachments/assets/aa19db69-a36a-420b-a4f0-f46e3bcbdcbd" />
 <img width="426" height="325" alt="Screenshot 2026-01-17 142507" src="https://github.com/user-attachments/assets/224aaebe-6a63-400b-861a-ea72777f6100" />
+
+1. Depth Checkbox: This determines whether or not this Relic Preset is a Depth Relic. Depth Relics have different effects and also the option to pick curses to exclude. A Depth Relic Preset will be skipped when rolling normal relics and vice versa.
+2. Name: Editable text field to name your Relic Preset
+3. Edit: Opens a new window to edit your desired relic
+4. Delete: Opens a confirmation window to delete your Relic Preset
+
+You can create as many Relic Presets as you want, and also save and load them at any time with the "Save Setup" and "Load Setup" options. 
+Beware that these options will also save/load your settings. Be sure to check them before going to roll.<img width="428" height="327" alt="Screenshot 2026-01-17 143250" src="https://github.com/user-attachments/assets/7551da88-eda4-4004-8eb1-22bad1ae1696" />
+<img width="428" height="327" alt="Screenshot 2026-01-17 143250" src="https://github.com/user-attachments/assets/84537e09-6ac8-43cd-b489-dabae551e1e3" />
