@@ -31,7 +31,7 @@ You will not be banned. As you might know, there is a way to directly cheat reli
 
 As for if this is cheating, I think not. Part of the reason I created this project is that relic cheaters are a pretty common problem, and some members of the community even openly defend it. A common argument is that the relic system is deeply flawed and cheating is a way to "fix" it. While I obviously don't agree that that justifies cheating, it is true that the gameplay loop of rerolling is extremely tedious and a chore especially if you have millions of murk like me. This tool automates that **while not doing anything the player themselves cannot do.** In addition, unlike a macro in a fighting game, it does not help overcome any sort of skill or execution barrier, it only alleviates the busywork of rerolling.
 
-**I STRONGLY CONDONE CHEATING AND DISCOURAGE SAVE SCUMMING.** I genuinely believe that this tool is not cheating and I hope that by creating this and releasing it to the community that cheaters will become less prevalent.
+**I STRONGLY CONDONE CHEATING AND DISCOURAGE SAVE SCUMMING.** I obviously can't compel you not to cheat but I genuinely believe that this tool is not cheating and that by creating this and releasing it to the community that cheaters will become less prevalent.
 
 ## **Why can't I find [so-and-so] effect?**
 The way my script is set up, I have to personally actually roll the effect before I can add it. After about 250k murk spent I just gave up looking for Evergaol bonus for example. I also excluded some effects that are essentially filler such as Intelligence+3.
