@@ -26,11 +26,8 @@ So I've clicked **Edit Relic Preset**. This will pull up a new window to select 
 
 <img width="558" height="447" alt="image" src="https://github.com/user-attachments/assets/069bae43-43ae-4014-899f-39aa821635b7" />
 
-Now we must select effects for each slot of the Relic Preset. Clicking **Edit Relic Effects** will allow you to select effects for the slot that you picked.
-
-<img width="448" height="324" alt="image" src="https://github.com/user-attachments/assets/cb60e576-367e-4b33-9e52-d8a76999bcf3" />
-
-You can select any number of effects. Beware that selecting too many can significantly slow down how fast the app runs. 
+Now we must select effects for each slot of the Relic Preset. Clicking **Edit Relic Effects** will allow you to select effects for the slot that you picked. You can select any number of effects. 
+Beware that selecting too many can significantly slow down how fast the app runs. 
 I am a Recluse main. Let's say I want to roll a relic that powers up Crystalian and Carian sorceries. 
 
 <img width="450" height="327" alt="image" src="https://github.com/user-attachments/assets/888ef06b-c094-4557-b6aa-6a2ad36f47f0" />
