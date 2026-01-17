@@ -18,7 +18,6 @@ This will create a new empty Relic Preset.
   <img width="426" height="325" alt="Screenshot 2026-01-17 142507" src="https://github.com/user-attachments/assets/224aaebe-6a63-400b-861a-ea72777f6100" />
 </p>
 
-</p>
 1. Depth Checkbox: This determines whether or not this Relic Preset is a Depth Relic. Depth Relics have different effects and also the option to pick curses to exclude. A Depth Relic Preset will be skipped when rolling normal relics and vice versa.
 2. Name: Editable text field to name your Relic Preset
 3. Edit: Opens a new window to edit your Relic Preset
