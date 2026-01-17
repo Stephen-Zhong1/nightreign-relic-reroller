@@ -16,7 +16,7 @@ For a guide on how to use Relic Reroller, see [Relic Reroller User Guide]. **I S
 Join my [Discord](https://discord.gg/yXvK7KB6MM) to contact me, report bugs, make suggestions, or just look for games/be part of a Nightreign community.
 
 # Q & A
-### **Will I get banned? Is this cheating?**
+## **Will I get banned? Is this cheating?**
 You will not be banned. As you might know, there is a way to directly cheat relics with whatever effect you want into the game, and people doing that have not been banned despite directly violating TOS. This tool does not violate TOS unless Fromsoft were to contact me saying it does.
 
 <img width="1034" height="209" alt="Screenshot 2026-01-17 140459" src="https://github.com/user-attachments/assets/49af1963-7a1d-4b84-982a-bdb627a8e56d" />
@@ -31,5 +31,11 @@ As for if this is cheating, I think not. Part of the reason I created this proje
 
 **I STRONGLY CONDONE CHEATING.** I genuinely believe that this tool is not cheating and I hope that by creating this and releasing it to the community that cheaters will become less prevalent.
 
-### **Why can't I find [so-and-so] effect?**
+## **Why can't I find [so-and-so] effect?**
 The way my script is set up, I have to personally actually roll the effect before I can add it. After about 250k murk spent I just gave up looking for Evergaol bonus for example. I also excluded some effects that are essentially filler such as Intelligence+3.
+
+## **It doesn't work**
+The exe is packaged and tested only on Windows 11. If you are on Mac or Linux I am pretty sure it will not work. There may also be other issues that pop up on different hardware. Join my Discord and contact me to work something out.
+
+## **I want to contribute to this project. How?**
+Join my Discord and contact me.
