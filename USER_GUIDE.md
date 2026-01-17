@@ -18,6 +18,7 @@ This will create a new empty Relic Preset.
 
 You can create as many Relic Presets as you want, and also save and load them at any time with the "Save Setup" and "Load Setup" options. These options will save/load all current Relic Presets. 
 Beware that these options will also save/load your settings. Be sure to check them before going to roll.
+
 <img width="428" height="327" alt="Screenshot 2026-01-17 143250" src="https://github.com/user-attachments/assets/84537e09-6ac8-43cd-b489-dabae551e1e3" />
 
 ## Customizing your Relic Preset
