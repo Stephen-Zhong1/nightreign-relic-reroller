@@ -94,15 +94,15 @@ The tool will now start rerolling your relics for the specified amount. Press "p
 
 # Useful Info and Warnings
 Please read this even if you read nothing else so you do not waste your currency or otherwise somehow bug the program.
-**Warnings**
 
+###**Warnings**
 * If you have Confirmation Window setting turned on and are fullscreen it will freeze the game and try to tab you into the confirmation. I heavily recommend you play Borderless Window when using this tool
 * If your resolution is not 1920x1080 the tool may not be able to recognize relic effects. I didn't bother to test lower resolutions. I heavily recommend you play in 1920x1080
 * The app will always attempt to buy 10 relics without checking if your inventory can accept them or if you have enough currency. Make sure you have space and currency to buy them manually before using this tool
 * The "Number of Times to Reroll" setting refers to how many times it buys relics. This means that putting 2 in this field will buy 20 relics. Make sure you understand how many relics it's going to buy
 * Save/Load Presets saves/loads your settings. If you set 100 rerolls then start over and load in your old presets it will reroll 100 times. Make sure to check your settings before starting rolls
-**Useful Info**
-  
+
+###**Useful Info**
 * Rerolls will run significantly faster if you structure them to have fewer effects on top. For example, if I want a Revenant Night Invader roll, I should put only Night Invader in the first slot and secondary effects (starting incant, Rev specific effects, affinity attack up) in the second slot
 * Press "p" to interrupt relic rerolling. Be patient, if you have many Relic Presets it may take a moment to interrupt, but it will not delete more relics or close relic window after you try to interrupt.
 
