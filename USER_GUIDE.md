@@ -56,7 +56,11 @@ Let's say I'm very greedy and want more than that. I want a godroll that has one
   <img width="555" height="444" alt="Screenshot 2026-01-17 144712" src="https://github.com/user-attachments/assets/0ea6b666-d6aa-4374-ad11-29f79dfd649b" />
 </p>
 
-I now have a Relic Preset for Crystalian or Carian Sword Recluse. I can confirm my effect selection and come back to it whenever by going back to **Edit Relic Roll** for that Relic Preset.
+I now have a Relic Preset for Crystalian or Carian Sword Recluse. I can confirm my effect selection and come back to it whenever by going back to **Edit Relic Roll** for that Relic Preset. This Relic Preset will now attempt to roll a relic that:
+* Contains Crystalian **OR** Carian Sword Sorcery up
+* Contains a Recluse specific perk **OR** Rise FP **OR** Magic Attack Up
+
+For example: A relic containing (Carian Sorcery+, Rise FP, random effect) is valid. A relic containing (Recluse perk, Rise FP, random effect) is not valid.
 
 For Depth Relics, there will be an extra Curses section. 
 
