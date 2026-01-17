@@ -66,7 +66,7 @@ For Depth Relics, there will be an extra Curses section.
   <img width="548" height="159" alt="image" src="https://github.com/user-attachments/assets/fd73b46d-785a-43ad-b275-ffade8edac7e" />
 </p>
 
-If a relic contains any of the selected curses, it will be marked as invalid. 
+If a relic contains any of the selected curses, it will be marked as invalid, even if it otherwise satisfies all relic effects.
 
 
 ## Settings
@@ -80,4 +80,29 @@ Settings can be accessed by using the left-most "Settings" button. There are cur
 1. Number of Times to Reroll: This means how many times the Relic Reroller will buy relics. For example, putting 2 in this field will buy 10 relics twice making 20 relics total. Beware that this tool will always try to buy 10 relics.
 2. Type of Relic Roll: Normal/Depth are your options. Normal option will attempt to roll normal relics that match normal (non-depth) Relic Presets and vice versa for Depth.
 3. Auto-delete Relics without 3 Perks: Does what it says on the tin. Like manual rerolling, I encourage you not to do this but it will significantly speed up the rolling especially if you have many Relic Presets with many effects.
+4. Confirmation Window when Rolling Valid Relic: If checked, this option will bring up a window that requires you to confirm whenever the program finds a relic that satisfies one of your Presets. I encourage you to use this so that the program does not consume all your murk in one day.
 
+## Start Rolling  
+To start rolling, go to either the Small Jar or the Collector's Signboard and click on their shops. Scroll down to where the option to buy relics/depth relics is visible. 
+
+<p align="center">
+  <img width="1356" height="1011" alt="Screenshot 2026-01-17 151438" src="https://github.com/user-attachments/assets/940ac547-1fee-4522-9ad2-eeae9f2b5435" />
+</p>
+
+Click **Start Rolls** and immediately tab into Nightreign. Borderless Windowed makes this less annoying since you can have Relic Reroller on top of Nightreign and then simply click behind it to tab back in. If you tab too slowly, there will be a warning that the Relics and Depth Relic buying options cannot be found on your screen.
+The tool will now start rerolling your relics for the specified amount. Press "p" to interrupt the rolling.
+
+# Useful Info and Warnings
+Please read this even if you read nothing else so you do not waste your currency or otherwise somehow bug the program.
+**Warnings**
+* If you have Confirmation Window setting turned on and are fullscreen it will freeze the game and try to tab you into the confirmation. I heavily recommend you play Borderless Window when using this tool
+* If your resolution is not 1920x1080 the tool may not be able to recognize relic effects. I didn't bother to test lower resolutions. I heavily recommend you play in 1920x1080
+* The app will always attempt to buy 10 relics without checking if your inventory can accept them or if you have enough currency. Make sure you have space and currency to buy them manually before using this tool
+* The "Number of Times to Reroll" setting refers to how many times it buys relics. This means that putting 2 in this field will buy 20 relics. Make sure you understand how many relics it's going to buy
+* Save/Load Presets saves/loads your settings. If you set 100 rerolls then start over and load in your old presets it will reroll 100 times. Make sure to check your settings before starting rolls
+**Useful Info**
+* Rerolls will run significantly faster if you structure them to have fewer effects on top. For example, if I want a Revenant Night Invader roll, I should put only Night Invader in the first slot and secondary effects (starting incant, Rev specific effects, affinity attack up) in the second slot
+* Press "p" to interrupt relic rerolling. Be patient, if you have many Relic Presets it may take a moment to interrupt, but it will not delete more relics or close relic window after you try to interrupt.
+
+
+If you try to come to me and ask about something already answered or warned about here I will laugh at you, so be sure to read it! Otherwise, please enjoy my Nightreign Relic Reroller! 
