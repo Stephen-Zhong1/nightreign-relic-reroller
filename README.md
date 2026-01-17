@@ -13,7 +13,7 @@ The resulting exe can be run out of the box.
 
 For a guide on how to use Relic Reroller, see [Relic Reroller User Guide](https://github.com/Stephen-Zhong1/nightreign-relic-reroller/blob/main/USER_GUIDE.md). 
 
-**I STRONGLY RECOMMEND YOU AT LEAST SKIM THIS!! I also recommend you use 1920x1080 resolution and Borderless Windowed while using this tool. I am not responsible for any murk/sigils spent, good relics deleted, or other things that might happen while using this program. If something happens you are welcome to report it to me on Discord however.**
+I STRONGLY RECOMMEND YOU AT LEAST SKIM THIS! I am not responsible for any murk/sigils spent, good relics deleted, or other things that might happen while using this program. If something happens you are welcome to report it to me on Discord however.
 
 Join my [Discord](https://discord.gg/yXvK7KB6MM) to contact me, report bugs, make suggestions, or just look for games/be part of a Nightreign community.
 
