@@ -11,7 +11,7 @@ To download Relic Reroller, follow these instructions:
 The resulting exe can be run out of the box.
 
 
-For a guide on how to use Relic Reroller, see [Relic Reroller User Guide](https://github.com/Stephen-Zhong1/nightreign-relic-reroller/blob/main/USER_GUIDE.md). **I STRONGLY RECOMMEND YOU AT LEAST SKIM THIS!!**
+For a guide on how to use Relic Reroller, see [Relic Reroller User Guide](https://github.com/Stephen-Zhong1/nightreign-relic-reroller/blob/main/USER_GUIDE.md). **I STRONGLY RECOMMEND YOU AT LEAST SKIM THIS!! I also recommend you use 1920x1080 resolution and Borderless Windowed while using this tool.**
 
 Join my [Discord](https://discord.gg/yXvK7KB6MM) to contact me, report bugs, make suggestions, or just look for games/be part of a Nightreign community.
 
