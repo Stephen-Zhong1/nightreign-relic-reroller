@@ -7,7 +7,9 @@ To download Relic Reroller, follow these instructions:
 * Click **Nightreign Relic Roller.exe** in the above list of files
 * Click **...** in the top right corner
 * Click **Download**
+  
 The resulting exe can be run out of the box.
+
 
 For a guide on how to use Relic Reroller, see [Relic Reroller User Guide] 
 
