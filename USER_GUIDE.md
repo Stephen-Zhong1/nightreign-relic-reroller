@@ -1,5 +1,8 @@
 # How to use Nightreign Relic Reroller
-So I have a shiny new download of Relic Reroller. How do I start?
+So I have a shiny new download of Relic Reroller. How do I start? 
+Navigate this guide using the Outline button in the upper right.
+
+**I strongly recommend you play in 1920x1080 resolution and Borderless Windowed while using this tool**
 
 ## Creating a Relic Preset
 You will first want to create a (or multiple) Relic Preset that the app will attempt to roll for you. 
@@ -48,7 +51,14 @@ My Relic Preset now has a slot that looks for either Improved Crystalian or Cari
   <img width="558" height="444" alt="image" src="https://github.com/user-attachments/assets/dcb8ce8a-c460-41e1-b8f0-810378e6fc5a" />
 </p>
 
-Let's say I'm very greedy and want more than that. I want a godroll that has one of those bonuses as well as another useful bonus. 
+Let's say I'm very greedy and want more than that. I want a godroll that has one of those bonuses as well as another useful bonus. I will edit the relic effects of the second slot of my Relic Preset.
+
+<p align="center">
+  <img width="555" height="444" alt="Screenshot 2026-01-17 144712" src="https://github.com/user-attachments/assets/0ea6b666-d6aa-4374-ad11-29f79dfd649b" />
+</p>
+
+I now have a relic preset for Crystalian or Carian Sword Recluse. I will 
+
 
 
 
