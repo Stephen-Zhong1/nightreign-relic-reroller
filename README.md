@@ -16,8 +16,9 @@ For a guide on how to use Relic Reroller, see [Relic Reroller User Guide]. **I S
 Join my [Discord](https://discord.gg/yXvK7KB6MM) to contact me, report bugs, make suggestions, or just look for games/be part of a Nightreign community.
 
 # Q & A
-**Will I get banned? Is this cheating?**
+### **Will I get banned? Is this cheating?**
 You will not be banned. As you might know, there is a way to directly cheat relics with whatever effect you want into the game, and people doing that have not been banned despite directly violating TOS. This tool does not violate TOS unless Fromsoft were to contact me saying it does.
+
 <img width="1034" height="209" alt="Screenshot 2026-01-17 140459" src="https://github.com/user-attachments/assets/49af1963-7a1d-4b84-982a-bdb627a8e56d" />
 1. This tool does nothing in expedition
 2. This tool is strictly third-party and does not interact with Nightreign's code at all
@@ -28,5 +29,5 @@ You will not be banned. As you might know, there is a way to directly cheat reli
 As for if this is cheating, I think using this script is completely fine. Part of the reason I created this project is that relic cheaters are a pretty common problem, and some members of the community even openly defend it. A common argument is that the relic system is deeply flawed and cheating is a way to "fix" it. While I obviously don't agree that that justifies cheating, it is true that the gameplay loop of rerolling is extremely tedious and a chore especially if you have millions of murk like me. This tool automates that **while not doing anything the player themselves cannot do.** In addition, unlike a macro in a fighting game, it does not help overcome any sort of skill or execution barrier, it only alleviates the busywork of rerolling.
 **I STRONGLY CONDONE CHEATING.** I genuinely believe that this tool is not cheating and I hope that by creating this and releasing it to the community that cheaters will become less prevalent.
 
-**Why can't I find [so-and-so] effect?**
+### **Why can't I find [so-and-so] effect?**
 The way my script is set up, I have to personally actually roll the effect before I can add it. After about 250k murk spent I just gave up looking for Evergaol bonus for example. I also excluded some effects that are essentially filler such as Intelligence+3.
